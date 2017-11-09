@@ -1,0 +1,28 @@
+{
+  "name": "moment-timezone-parse",
+  "version": "0.0.0",
+  "description": "Parse an ISO8601 string to a moment-timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/activeprospect/moment-timezone-parse.git"
+  },
+  "author": "Alex Wolfe <alex@activeprospect.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/activeprospect/moment-timezone-parse/issues"
+  },
+  "homepage": "https://github.com/activeprospect/moment-timezone-parse#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "moment-timezone": "^0.5.14"
+  }
+}
