@@ -1,6 +1,6 @@
 {
   "name": "moment-timezone-parse",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Parse an ISO8601 string to a moment-timezone",
   "main": "index.js",
   "scripts": {
