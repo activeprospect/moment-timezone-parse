@@ -1,5 +1,4 @@
 const assert = require('chai').assert,
-      moment = require('moment'),
       parse  = require('../');
 
 
